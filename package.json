@@ -1,0 +1,16 @@
+{
+  "name": "ducowebminer-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ruriazz",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "pm2": "^5.1.2",
+    "ws": "^8.3.0"
+  }
+}
