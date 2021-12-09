@@ -7,7 +7,7 @@ git clone https://github.com/ruriazz/ducowebminer-nodejs.git
 
 ### Configuration
 
-Set your duino coin wallet at app.js
+Set your duino coin wallet inside app.js
 ````
 const username = "DUCOWALLET";
 ````
